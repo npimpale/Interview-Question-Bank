@@ -1,0 +1,37 @@
+Program 1:
+ 
+Print "fizz" if no divisible by 3, "buzz" if divisible by 5, "fizzbuzz" if divisible by both, the number itself if not divisible by 3 and 5. Input is 1 to 100
+ 
+Sample output:
+
+1
+ 
+2
+
+fizz
+
+4
+
+buzz
+
+.
+
+.
+
+14
+
+fizzbuzz
+
+16
+
+ 
+
+Program 2:
+ 
+Implement FIFO queue using array with below two methods. 
+
+enqueue(Object s): adds the item s, if queue is full throw appropriate error 
+
+dequeue(): returns an item, if queue is empty throw appropriate error
+
+SQL : http://sql-ex.ru/
